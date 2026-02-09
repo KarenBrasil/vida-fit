@@ -1,0 +1,7 @@
+{
+  "name": "Nutri IA - Nutricionista de Bolso",
+  "description": "Seu nutricionista particular com IA. Analise pratos por foto, receba planos alimentares personalizados e treine com foco em seus objetivos.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
